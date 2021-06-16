@@ -1,0 +1,4 @@
+1) Create our environment
+2) Write our boilerplate code
+3) Set up database with SQLAlchemy
+4) Write Flask endpoints
